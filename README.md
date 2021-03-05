@@ -7,7 +7,7 @@ The mowers have to move over the lawn 3 potentials movements (Forward, turn left
 Forward increment by 1 the mower position according to the direction.
 Turn left or right just make a rotation and change the direction of the mower.
 
-Input file example
+##### Input file example
 The first line correspond to the size of the lawn.
 Line 2 is the initial position and direction of the mower.
 Line 3 is the commands associated to the previous mower.
@@ -19,6 +19,9 @@ LFLFLFLFF
 3 3 E
 FFRFFRFRRF
 ```
+##### Expected output on standard output
+1 3 N
+5 1 E
 
 ## Techno
 - spring boot 2 (starter core and test)
