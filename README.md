@@ -20,8 +20,10 @@ LFLFLFLFF
 FFRFFRFRRF
 ```
 ##### Expected output on standard output
+```
 1 3 N
 5 1 E
+```
 
 ## Techno
 - spring boot 2 (starter core and test)
