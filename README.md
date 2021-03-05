@@ -39,5 +39,5 @@ There is a sample file input.txt in the resources directory
 
 ## Comment
 - My main app class and the run method inside the mower service are maybe not enough split
-- The package structure is pretty simple and the approach could be more DDD like
+- The package structure is pretty simple and the approach could be more DDD like. I think it maybe need some reorganisation for the package structure
 - I added sneaky throws annotation to avoid checked exception
