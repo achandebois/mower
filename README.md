@@ -47,3 +47,4 @@ There is a sample file input.txt in the resources directory
 - The package structure is pretty simple and the approach could be more DDD like. I think it maybe need some reorganisation for the package structure
 - I added sneaky throws annotation to avoid checked exception (in a production env the strategy may differ)
 - The run method inside the mower service returns the mower just for unit test
+- The lookup in the different enum for shortName may be improve
